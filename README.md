@@ -105,6 +105,9 @@ All visualizations dynamically update based on filter selections.
 - Order status analysis highlights fulfillment performance  
 
 ---
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](Vrinda Store Dashboard Screenshot.jpg)
 
 ## 🛠 Tools & Technologies Used
 
