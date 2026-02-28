@@ -107,7 +107,7 @@ All visualizations dynamically update based on filter selections.
 ---
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](Vrinda Store Dashboard Screenshot.jpg)
+![Dashboard Screenshot](Vrinda%20Store%20Dashboard%20Screenshot.jpg)
 
 ## 🛠 Tools & Technologies Used
 
