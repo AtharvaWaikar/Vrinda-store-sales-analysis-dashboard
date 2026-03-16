@@ -1,3 +1,11 @@
+Portfolio :-
+---
+Linkedln :- https://www.linkedin.com/in/atharva-waikar-a95a042b5/
+---
+Github :- https://github.com/AtharvaWaikar
+---
+---
+
 # 🛍️ Vrinda Store Sales Analysis Dashboard
 
 ---
